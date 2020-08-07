@@ -14,8 +14,7 @@
   },
   "author": "Ahmed Bule",
   "license": "ISC",
-  "bugs": {
-  },
+  "bugs": {},
   "homepage": "https://young-lake-49727.herokuapp.com/",
   "dependencies": {
     "compression": "^1.7.4",
